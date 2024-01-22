@@ -14,3 +14,6 @@
 
 [//]: <> (Credits: jaypeealamer)
 [//]: <> (Credits: Last edited on: 01/22/24)
+
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{jaypeealamer}/count.svg)
